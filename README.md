@@ -7,7 +7,7 @@
 4.a link between markdown pages. Link from README.md to the second markdown file and from the second markdown file back to the README.md:[LinkToAnotherMarkdown](AnotherMarkdown.md)
 
 5.an image that is a file in the directory:
-![ImageofHuangMountain](ImageOfHuangMountain.jpg)
+![ImageofHuangMountain](https://github.com/RosieChurchill/Homework1/blob/main/ImageOfHuangMountain.jpg)
 
 6.an image that is located on the web (not a file in the directory). If you right-click on an image in a web browser there is an option in the pop up to get the address/URL to the image:
 ![ImageOfPicture](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fup.enterdesk.com%2Fedpic_source%2F9e%2F73%2F69%2F9e7369d71ba4baf4b43e9aeda82e9bf3.jpg&refer=http%3A%2F%2Fup.enterdesk.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1651210517&t=bb07f880b4f1a5097f96754c667276f7)
