@@ -14,9 +14,18 @@
 
 7.a code block with syntax highlighting for the programming language being used. Put some example code in the code block. I don't care what code. Note that those three ticks that define a code block are backticks not apostrophes:
 ```javascript
-$(document).ready(function () {
-    alert('RUNOOB');
-});
+public void display(){
+        ListNode node = head;
+        while (node!=null){
+            if (node.next==null){
+                System.out.print(node.data );
+                node = node.next;
+            }else{
+                System.out.print(node.data + "->");
+                node = node.next;
+            }
+        }
+    }
 ```
 > 8.a block quote
 
@@ -29,12 +38,12 @@ $(document).ready(function () {
 - first
 - second
 - third
-- 
+
 11.a table:
 | Number | Item   |
 | ------ | ------ |
-| 1      | apple  |
-| 2      | pear   |
+| 1      | pencil |
+| 2      | eraser |
 
 12.**bolded text**
 
